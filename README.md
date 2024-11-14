@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming language.
 - 🌱 I’m currently learning to develope an advance level in Ai, ML.
 - 💞️ I’m looking to collaborate on daily life.
-- 📫 How to reach me: call me directly if you have my number otherwise do not worry!
+- 📫 How to reach me: Call me on my cell phone if you have my number otherwise, do not worry.
 - ⚡ Fun fact: Time will tell you wonders, be a listener.
 
 <!---
